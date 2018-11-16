@@ -1,0 +1,13 @@
+root@localhost:/mycloud9# python3 main.py
+What are the most popular three articles of all time?
+" Candidate is jerk, alleges rival " __ 338647  views
+" Bears love berries, alleges bear " __ 253801  views
+" Bad things gone, say good people " __ 170098  views
+
+Who are the most popular article authors of all time?
+Ursula La Multa __ 507594  views
+Rudolf von Treppenwitz __ 423457  views
+Anonymous Contributor __ 170098  views
+
+On which days did more than 1% of requests lead to errors?
+2016-07-17 __ 2.26
